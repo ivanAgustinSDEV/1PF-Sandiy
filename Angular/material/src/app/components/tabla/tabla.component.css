@@ -1,0 +1,33 @@
+.body{
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  align-items: center;
+  background-color: rgb(241, 236, 230);
+}
+
+.tabla {
+  width: 100%;
+  max-width: 330px;
+  text-align: center;
+}
+
+
+table {
+  width: 100%;
+  margin-top: 10px;
+}
+
+th{
+  width: 15%;
+}
+
+.pointer{
+  cursor: pointer;
+}
+
+.mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
